@@ -1,5 +1,5 @@
 # AutonomiScreenshotTool
-Youtube presentation: [https://www.youtube.com/watch?v=P3OtTYFn8ic](https://www.youtube.com/watch?v=I3OPMj9fpgA)
+Youtube presentation: https://www.youtube.com/watch?v=I3OPMj9fpgA
 
 ## Description
 This application is a lightweight and convenient tool for taking screenshots, allowing the user to select a specific area of the screen to capture.  
